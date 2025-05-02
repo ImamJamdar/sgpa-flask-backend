@@ -68,7 +68,6 @@ pyttsx3==2.91
 pytweening==1.2.0
 pytz==2025.2
 pywhatkit==5.4
-pywin32==306
 rdflib==6.3.2
 requests==2.32.3
 scapy==2.6.1
